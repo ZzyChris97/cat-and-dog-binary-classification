@@ -5,7 +5,14 @@
 ## data
 
   data目录存放训练所用到的图片数据
-  数据：链接：https://pan.baidu.com/s/1vOvxTD8LYRIDq4IGr-WZ3A  提取码：5mec
+  
+  数据：
+  https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data
+  
+  or
+  
+  链接：https://pan.baidu.com/s/1vOvxTD8LYRIDq4IGr-WZ3A  提取码：5mec
+  
 
 ## split_dataset.py
   将数据集分为训练集，验证集和测试集
